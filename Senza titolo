@@ -1,30 +1,84 @@
-<html>
-</head>
-<link rel="stylesheet"href="style.css">
-</head>
 
 <h1> Calendario </h1>
 
-<span class="placeholder important">
- work in progress </span>
 
 
-<h2> Modalità di valutazione </h2>
 
-<h3> Pagina Personale </h3>
+<p> work in progress </p>
+
+Data
+Ore
+Chi
+28/02/18
+4
+Bruschi
+05/03/18
+2
+Rana
+07/03/18
+4
+Bruschi
+12/03/18
+2
+Bruschi
+19/03/18
+2
+Bruschi
+21/03/18
+2
+Rana
+26/03/18
+2
+Rana
+28/03/18
+4
+Bruschi
+04/04/18
+4
+Bruschi
+09/04/18
+2
+Bruschi
+16/04/18
+2
+Rana
+18/04/18
+4
+Bruschi
+23/04/18
+2
+Rana
+02/05/18
+4
+Rana
+07/05/18
+2
+Rana
+09/05/18
+4
+Bruschi
+14/05/18
+2
+Bruschi
+21/05/18
+2
+Rana
+23/05/18
+4
+Bruschi
+
+
+Modalità di valutazione
+
+Pagina Personale
 
 Durante il corso verrà chiesto agli studenti di realizzare e aggiornare una pagina personale, nella quale, tra l’altro, mostrare lo svolgimento di alcuni esercizi ai quali applicare gli strumenti, le tecniche e i concetti visti a lezione. Le pagine verranno valutate, e contribuiranno alla valutazione complessiva per un terzo del voto finale. Gli esercizi verranno proposti e i criteri di valutazione esposti durante il corso.
 
-<h4> Prova scritta </h4>
+Prova scritta
 La prova scritta si svolge al calcolatore, sarà composta da una parte di “programmazione” e da una parte di esercizi e di teoria.
 Testi consigliati
-
-
-<p class="placeholder"> Oltre ai testi consigliati nel programma ufficiale, si cercherà di fare riferimento anche al testo:
+Oltre ai testi consigliati nel programma ufficiale, si cercherà di fare riferimento anche al testo:
 
 “HTML5 CSS3 JavaScript” di Pellegrino Principe, Apogeo
 
-Per ogni lezione verranno forniti anche link a materiale online, sia di supporto che di approfondimento.</p>
-
-
-<p> <em>
+Per ogni lezione verranno forniti anche link a materiale online, sia di supporto che di approfondimento.

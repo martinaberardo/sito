@@ -1,0 +1,17 @@
+h1 {
+color: violet;
+}
+h2 {
+  color: purple;
+}
+.placeholder {
+border: 2px solid pink;
+padding: 5px;
+color: violet;
+}
+p {
+  color: light-blue;
+}
+.important {
+  text-decoration: underline;
+}
